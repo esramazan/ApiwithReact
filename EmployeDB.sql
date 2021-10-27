@@ -1,10 +1,5 @@
-/* 
-
-EmployeDB
-DESKTOP-U8L4T95
-SqlConnection baglan = new SqlConnection("Data Source=DESKTOP-U8L4T95; Initial Catalog=EmployeDB; User ID=sa; Password=net_123;");
-
-*/
+create database EmployeDB
+use EmployeDB
 
 create table Department
 (
