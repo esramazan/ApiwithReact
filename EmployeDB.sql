@@ -1,6 +1,7 @@
 create database EmployeDB
 use EmployeDB
 
+
 create table Department
 (
 DepartmentId int identity(1,1),
