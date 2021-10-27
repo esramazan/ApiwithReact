@@ -24,3 +24,9 @@ C:\Users\esram\OneDrive\Documents\GitHub\ApiwithReact\ApiWithReact\ApiWithReact\
 C:\Users\esram\OneDrive\Documents\GitHub\ApiwithReact\ApiWithReact\ApiWithReact\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
 C:\Users\esram\OneDrive\Documents\GitHub\ApiwithReact\ApiWithReact\ApiWithReact\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
 C:\Users\esram\OneDrive\Documents\GitHub\ApiwithReact\ApiWithReact\ApiWithReact\obj\Debug\netcoreapp3.1\ApiWithReact.csproj.CopyComplete
+C:\Users\esram\OneDrive\Documents\GitHub\ApiwithReact\ApiWithReact\ApiWithReact\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\esram\OneDrive\Documents\GitHub\ApiwithReact\ApiWithReact\ApiWithReact\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\esram\OneDrive\Documents\GitHub\ApiwithReact\ApiWithReact\ApiWithReact\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\esram\OneDrive\Documents\GitHub\ApiwithReact\ApiWithReact\ApiWithReact\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\esram\OneDrive\Documents\GitHub\ApiwithReact\ApiWithReact\ApiWithReact\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\esram\OneDrive\Documents\GitHub\ApiwithReact\ApiWithReact\ApiWithReact\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
